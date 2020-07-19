@@ -1,0 +1,12 @@
+
+
+
+/*************** ADD YOUR CUSTOM RTL CSS HERE  ***************/
+
+
+.product-images .img-thumbnail .inner, .product-images .img-thumbnail .inner img {
+    -webkit-transform: none;
+    transform: none;
+    height: 440px;
+    padding: 20px;
+}
